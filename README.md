@@ -30,7 +30,7 @@ The dataset consists of four CSV files:
 📌 **Certain pizza sizes and types** contribute significantly to revenue, helping optimize menu offerings.  
 
 ## 📸 Dashboard Screenshot
-![Pizza Sales Dashboard](Pizza_Sales.jpg)
+![Image](https://github.com/user-attachments/assets/f6364251-4793-4046-b3ee-51eea573813e)
 
 ## 💡 Learning & Experience
 This project was part of the **Power BI tutorial series** by **WsCube Tech**, where I practiced real-world business intelligence skills. It helped me:
